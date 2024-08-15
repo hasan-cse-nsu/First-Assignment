@@ -1,0 +1,12 @@
+.my-text {
+    font-style: italic;
+    color: blue;
+}
+
+.float {
+    float: right;
+}
+
+.center {
+    justify-content: center;
+}
